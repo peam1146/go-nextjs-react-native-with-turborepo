@@ -1,0 +1,12 @@
+{
+  "name": "go-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "go test ./..."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

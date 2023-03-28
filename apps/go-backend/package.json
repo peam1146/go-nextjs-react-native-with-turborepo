@@ -1,0 +1,18 @@
+{
+  "name": "go-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "go run main.go",
+    "build": "go build -o bin/main main.go",
+    "start": "bin/main",
+    "test": "go test ./..."
+  },
+  "devDependencies": {
+    "go-packages": "workspace:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
